@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="D:\php\php.exe" id="a3d8e786-8e57-443b-b43d-2d67d926a485" name="PHP" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7" />
 </project>
